@@ -1,1 +1,1 @@
-# Colaboracion pracica git
+# Colaboración práctica git
