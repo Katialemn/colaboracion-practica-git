@@ -1,0 +1,7 @@
+Conflicto 1 - archivoConflicto1.txt
+- A crea archivoConflicto1.txt escibió: Linea inicial para conflicto 1
+- B escribió: Linea inicial para conflicto 1 linea modificada por B en conflicto 
+- A escribió: Linea inicial para conflicto 1 Linea modificada por A en conflicto 1
+- Resolución de A : Linea modificada por A y B en archivoConflicto1
+
+
