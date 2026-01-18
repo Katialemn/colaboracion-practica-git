@@ -1,2 +1,4 @@
 Archivo de A
 Conflicto generado por B en archivo A2 desde tablet
+Archivo de A prueba de archivo A2 desde computadora luego de subir B1-B3
+Conflicto generado por A en archivoA2 desde PC para realizar punto 7 de actvidad
