@@ -1,2 +1,3 @@
-Linea inicial para conflicto 1 Linea modificada por A en conflicto 1
+ Linea modificada por A y  B en archivoConflicto1
+
 
