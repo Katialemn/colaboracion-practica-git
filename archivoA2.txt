@@ -1,1 +1,2 @@
 Archivo de A
+Conflicto generado por B en archivo A2 desde tablet
